@@ -23,7 +23,8 @@ fofudir.com
 fulujam.com
 ganobaz.com
 gerepa.com
-gucunug.com guvafe.com
+gucunug.com
+guvafe.com
 hakakor.com
 hejalij.com
 hepide.com
@@ -74,7 +75,8 @@ solobiv.com
 sufebul.com
 suhuhow.com
 sujaxa.com
-tafobi.com tepiwo.com
+tafobi.com
+tepiwo.com
 tifiru.com
 tiyuzub.com
 tubaho.com
