@@ -155,4 +155,5 @@
 39.106.98.188
 123.178.42.123
 134.122.112.12, malicious file upload
-46.101.73.138, Laravel RCE
+46.101.73.138, Laravel RCE digital ocean IP
+45.32.94.157, Apache Struts2 RCE
