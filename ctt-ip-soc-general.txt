@@ -179,3 +179,4 @@
 31.210.20.101, sp3ctra_XO.php
 31.210.20.170, sp3ctra_XO.php
 52.189.119.150, sp3ctra_XO.php
+45.148.10.81, known-scanner
