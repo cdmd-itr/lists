@@ -180,3 +180,13 @@
 31.210.20.170, sp3ctra_XO.php
 52.189.119.150, sp3ctra_XO.php
 45.148.10.81, known-scanner
+51.38.41.15, sp3ctra_XO.php
+135.181.0.188, sp3ctra_XO.php
+85.202.169.175, sp3ctra_XO.php
+85.202.169.71, sp3ctra_XO.php
+85.202.169.36, sp3ctra_XO.php
+85.202.169.83, sp3ctra_XO.php
+85.202.169.92, sp3ctra_XO.php
+194.233.87.7, sp3ctra_XO.php
+2.56.56.203, sp3ctra_XO.php
+85.202.169.129, sp3ctra_XO.php
