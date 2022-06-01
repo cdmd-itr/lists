@@ -154,43 +154,43 @@
 77.88.5.59
 39.106.98.188
 123.178.42.123
-134.122.112.12, malicious file upload
-46.101.73.138, Laravel RCE digital ocean IP
-45.32.94.157, Apache Struts2 RCE
-45.150.64.85, CVE-2020-25213
-95.182.120.164, CVE-2020-25213
-95.182.120.39, CVE-2020-25213
-93.189.45.75, CVE-2020-25213
-45.33.65.249, CVE-2022-22965
-161.35.232.12, CVE-2017-9822 Digital Ocean
+134.122.112.12,malicious_file_upload
+46.101.73.138,Laravel_RCE_digital_ocean_IP
+45.32.94.157,Apache_Struts2_RCE
+45.150.64.85,CVE-2020-25213
+95.182.120.164,CVE-2020-25213
+95.182.120.39,CVE-2020-25213
+93.189.45.75,CVE-2020-25213
+45.33.65.249,CVE-2022-22965
+161.35.232.12,CVE-2017-9822_Digital Ocean
 176.113.115.238
-179.60.146.19, CVE-2021-3129
-45.33.101.246, CVE-2021-3129
-23.236.125.100, CVE-2021-3129
-88.80.186.144, Spring4Shell
+179.60.146.19,CVE-2021-3129
+45.33.101.246,CVE-2021-3129
+23.236.125.100,CVE-2021-3129
+88.80.186.144,Spring4Shell
 45.141.87.5
 192.151.197.147
-85.202.169.86, sp3ctra_XO.php
-217.160.145.62, sp3ctra_XO.php
-62.197.136.102, sp3ctra_XO.php
-176.9.117.218, sp3ctra_XO.php
-148.251.183.254, sp3ctra_XO.php
-65.108.104.19, sp3ctra_XO.php
-31.210.20.101, sp3ctra_XO.php
-31.210.20.170, sp3ctra_XO.php
-52.189.119.150, sp3ctra_XO.php
-45.148.10.81, known-scanner
-51.38.41.15, sp3ctra_XO.php
-135.181.0.188, sp3ctra_XO.php
-85.202.169.175, sp3ctra_XO.php
-85.202.169.71, sp3ctra_XO.php
-85.202.169.36, sp3ctra_XO.php
-85.202.169.83, sp3ctra_XO.php
-85.202.169.92, sp3ctra_XO.php
-194.233.87.7, sp3ctra_XO.php
-2.56.56.203, sp3ctra_XO.php
-85.202.169.129, sp3ctra_XO.php
-112.27.124.123, Mirai
+85.202.169.86,sp3ctra_XO.php
+217.160.145.62,sp3ctra_XO.php
+62.197.136.102,sp3ctra_XO.php
+176.9.117.218,sp3ctra_XO.php
+148.251.183.254,sp3ctra_XO.php
+65.108.104.19,sp3ctra_XO.php
+31.210.20.101,sp3ctra_XO.php
+31.210.20.170,sp3ctra_XO.php
+52.189.119.150,sp3ctra_XO.php
+45.148.10.81,known-scanner
+51.38.41.15,sp3ctra_XO.php
+135.181.0.188,sp3ctra_XO.php
+85.202.169.175,sp3ctra_XO.php
+85.202.169.71,sp3ctra_XO.php
+85.202.169.36,sp3ctra_XO.php
+85.202.169.83,sp3ctra_XO.php
+85.202.169.92,sp3ctra_XO.php
+194.233.87.7,sp3ctra_XO.php
+2.56.56.203,sp3ctra_XO.php
+85.202.169.129,sp3ctra_XO.php
+112.27.124.123,Mirai
 40.114.25.67
 192.153.57.184
 193.106.191.48
@@ -212,11 +212,11 @@
 161.35.188.242
 111.204.202.110
 83.99.147.75
-2.56.57.26, sp3ctra_XO.php
-85.202.169.88, sp3ctra_XO.php
-31.210.20.64, sp3ctra_XO.php
-2.56.59.165, sp3ctra_XO.php
-2.56.59.182, sp3ctra_XO.php
+2.56.57.26,sp3ctra_XO.php
+85.202.169.88,sp3ctra_XO.php
+31.210.20.64,sp3ctra_XO.php
+2.56.59.165,sp3ctra_XO.php
+2.56.59.182,sp3ctra_XO.php
 92.118.39.30
-141.105.65.149, follina
-5.226.142.21,apache_struts
+141.105.65.149,follina
+5.226.142.21,apache_struts_INC-1010297
