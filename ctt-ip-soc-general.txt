@@ -593,3 +593,4 @@
 37.143.18.130,bruteforce
 217.77.125.160,bruteforce
 217.219.61.27,bruteforce
+45.95.147.49,anomali
